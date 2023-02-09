@@ -27,7 +27,7 @@ My first challenge for the front end mentor website input and guidance on what I
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://khyaran.github.io/QR-code-challenge-solution/](https://khyaran.github.io/QR-code-challenge-solution/)
 
 
 ### Built with
