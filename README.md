@@ -49,4 +49,4 @@ I would like to make more use of relative values instead of using px values so m
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Khyaran)
+- Frontend Mentor - [@Khyaran](https://www.frontendmentor.io/profile/Khyaran)
